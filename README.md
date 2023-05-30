@@ -6,9 +6,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=infiinity&label=Profile%20views&color=0e75b6&style=flat" alt="infiinity" /> </p> -->
 
-<h4 align="center"> • 🔭 In my free time I work for **Morstic Studio**<br>
-  • 🏫 I currently go to **Secondary School**<br>
-• 👨‍💻 All of my projects are available at **SOON**
+<h4 align="center"> • 🔭 In my free time I work for <b>Morstic Studio</b><br>
+  • 🏫 I currently go to <b>Secondary School</b><br>
+  • 👨‍💻 All of my projects are available at <b>SOON</b>
   </h6>
 
 
