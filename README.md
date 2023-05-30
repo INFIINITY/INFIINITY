@@ -1,3 +1,4 @@
+![logo](https://github.com/INFIINITY/INFIINITY/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Patrixon</h1>
 <h3 align="center">I'm still learning... 🧢</h3>
 
